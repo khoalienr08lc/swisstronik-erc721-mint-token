@@ -1,0 +1,7 @@
+NFT ID 1 : https://explorer-evm.testnet.swisstronik.com/tx/0x00b495ce5df7e0085516bf96f45fd70e5ccc42d5018152f43043c5d6d8b20983
+
+
+git add .
+git commit -m 'quest'
+git pull
+git push
